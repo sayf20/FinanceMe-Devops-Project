@@ -1,7 +1,7 @@
 
 # FinanceMe DevOps Project 01 🚀
 
-![Preview](Assets/DevOps Masterclass by Saifeddine.png)
+![Preview](Assets/DevOps_Masterclass_by_Saifeddine.png)
 ![Preview](./Assets/FinanceMe_architecture_diagram.png)
 ![Preview](architecture_diagrams/FinanceMe_Flow_Diagram.png)
 
